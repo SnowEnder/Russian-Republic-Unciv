@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Wagner Group Soldier",
+		"name": "Republic Soldier",
 		"unitType": "Ranged",
 		"uniqueTo": "Rusian Republic",
-		"replaces": "Marine",
+		"replaces": "Infantry",
 		"movement": 5,
 		"strength": 55,
 		"rangedStrength": 70,
