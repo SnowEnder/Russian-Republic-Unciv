@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Cobalt Syndicate Soldier",
+		"name": "Wagner Group Soldier",
 		"unitType": "Ranged",
-		"uniqueTo": "Alchembrew",
+		"uniqueTo": "Rusian Republic",
 		"replaces": "Marine",
 		"movement": 5,
-		"strength": 90,
-		"rangedStrength": 90,
+		"strength": 55,
+		"rangedStrength": 70,
 		"range": 6,
 		"cost": 500,
 		"requiredTech": "Ballistics",
