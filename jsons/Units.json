@@ -2,7 +2,7 @@
 	{
 		"name": "Republic Soldier",
 		"unitType": "Ranged",
-		"uniqueTo": "Rusian Republic",
+		"uniqueTo": "New Rusian Republic",
 		"replaces": "Infantry",
 		"movement": 5,
 		"strength": 55,
@@ -11,7 +11,7 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","March","Shock III"],
 		"attackSound": "phasers"
 	}
 ]
