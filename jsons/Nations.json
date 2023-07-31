@@ -1,7 +1,7 @@
 [
 	{
 		"name": "New Russian Republic",
-		"leaderName": "Alexi Nvalny",
+		"leaderName": "Alexei Navalny",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra","Snow","Grassland"],
 		"preferredVictoryType": "Domination",
